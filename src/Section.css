@@ -1,0 +1,15 @@
+.mainn {
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.pra {
+    width: 1100px;
+
+}
+
+p {
+
+    font-size: 25px;
+}

@@ -1,0 +1,29 @@
+.main{
+    width: 100%;
+    height: 350px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.ang{
+    width: 250px;
+    height: 250px;
+    background-image: url(./assets/angular-icon-483x512-3apnmqn2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.react{
+    width: 220px;
+    height: 200px;
+    background-image: url(./assets/react.svg);
+    background-position: center;
+    background-size: contain;
+}
+.vue{
+    width: 200px;
+    height: 200px;
+    background-image: url(./assets/vue2.jpg);
+    background-position: center;
+    background-size: cover;
+}
