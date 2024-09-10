@@ -1,0 +1,98 @@
+
+.form{
+    width: 350px;
+    height: 500px;
+    background-image: url(./assets/bc.png);
+    background-position: center;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: 7px;
+    box-shadow: 5px 5px 5px 5px gray;
+    
+}
+h3{
+    color: white;
+}
+input{
+    width: 300px;
+    height: 30px;
+    border-radius: 4px;
+    border: 1px solid grey;
+}
+.forget{
+    border: 0px;
+    background: none;
+    padding-top: 10px;
+    color: blue;
+}
+.login{
+    border: 0px;
+    width: 300px;
+    height: 30px;
+    background-color: black;
+    border-radius: 4px;
+}
+.singup{
+    border: 0px;
+    background: none;
+    color: blue;
+}
+p{
+    font-size: 20px;
+}
+.line{
+    width: 40%;
+    border: 1px solid gray;
+}
+
+.loginfacebook{
+    border: 0px;
+    width: 300px;
+    height: 40px;
+    background-color: black;
+    border-radius: 4px;
+    display: flex;
+    gap: 45px;
+    padding: 10px;
+    align-items: center;
+    font-size: 15px;
+    
+}
+.logingoogle{
+    border: 1px solid grey;
+    width: 300px;
+    height: 30px;
+    background-color: white;
+    border-radius: 4px;
+    font-size: 15px;
+    display: flex;
+    gap: 45px;
+    font-weight: 500;
+    align-items: center;
+    padding-left: 10px;
+}
+.fcbookcont{
+    color: white;
+}
+.faceboook{
+    width: 25px;
+    height: 20px;
+    background-color: white;
+    color: blue;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 50%;
+    padding-top: 5px;
+}
+
+.gglimg{
+    background-image: url(./assets/google.png);
+    background-size: cover;
+    background-position: center;
+    height: 20px;
+    width: 20px;
+}
